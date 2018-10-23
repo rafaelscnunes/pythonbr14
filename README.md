@@ -2,23 +2,23 @@
 
 Crie um arquivo *seu_nome*.md na pasta _contatinhos com o seguinte formato:
 
----
-nome: Seu Nome
-avatar: seu_avatar.png
-tagline: Textinho que aparece abaixo do seu nome.
-contato: Seu link de contato.
-cor: Sua cor favorita entre as 6 opções.
----
+    ---
+    nome: Seu Nome
+    avatar: seu_avatar.png
+    tagline: Textinho que aparece abaixo do seu nome.
+    contato: Seu link de contato.
+    cor: Sua cor favorita entre as 6 opções.
+    ---
 
 ### Exemplo
 
----
-nome: Moisés Guimarães
-avatar: moisa.png
-tagline: (;,;)
-contato: https://moisesguimaraes.com
-cor: style2
----
+    ---
+    nome: Moisés Guimarães
+    avatar: moisa.png
+    tagline: (;,;)
+    contato: https://moisesguimaraes.com
+    cor: style2
+    ---
 
 ### Observações
  - Sua foto deve estar no tamanho 353x326
