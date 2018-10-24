@@ -162,6 +162,12 @@
 				}
 			}
 
+			&.style42 {
+				> .image:before {
+					background-color: _palette(avocado1);
+				}
+			}
+
 			body:not(.is-touch) & {
 				&:hover {
 					> .image {
