@@ -29,3 +29,4 @@ Crie um arquivo *seu_nome*.md na pasta _contatinhos com o seguinte formato:
 ### Observações
  - Sua foto deve estar no tamanho 353x326
  - O campo cor deve ter um dos valores de **style1** a **style6**, ou seja, de 1 a 6.
+ - Extra: Tem um estilo novo, em homenagem ao @fmasanori, **style42**. Cor de abacate.
