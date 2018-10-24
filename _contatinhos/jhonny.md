@@ -1,4 +1,3 @@
-
 ---
 nome: Jhonny Michel
 avatar: jhonny.png
