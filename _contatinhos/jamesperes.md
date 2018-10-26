@@ -1,6 +1,6 @@
 ---
 nome: James Peress
-avatar: jamesperes.png
+avatar: jamesperes.jpg
 tagline: Python > Java
 contato: www.jamesperes.com.br
 cor: style42
