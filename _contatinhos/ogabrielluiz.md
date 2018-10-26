@@ -2,6 +2,6 @@
 nome: Gabriel Almeida
 avatar: gabriel.png
 tagline: O futuro!
-contato: @ogabrielluiz all the things.
+contato: https://about.me/ogabrielluiz
 cor: style2
 ---
