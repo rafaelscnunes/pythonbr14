@@ -17,8 +17,8 @@ title: "Contatinhos #pythonbr14"
 tagline: Bateu a saudade?<br/>Encontre seus coleguinhas aqui 😉
 author: Moisés Guimarães
 email: guimaraes+talks@pm.me
-baseurl: "/contatinhos-pybr14" # the subpath of your site, e.g. /blog
-url: "https://moisesguimaraes.com" # the base hostname & protocol for your site
+baseurl: "/pythonbr14" # the subpath of your site, e.g. /blog
+url: "https://contatinhos.github.io" # the base hostname & protocol for your site
 
 collections:
   contatinhos:
