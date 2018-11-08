@@ -2,7 +2,7 @@
 
 Seu repositório de pythonistas queridos da #pythonbr14 o/
 
-[Site](https://moisesguimaraes.com/contatinhos-pybr14/)
+[Site](https://contatinhos.github.io/pythonbr14/)
 
 ## Como faço para criar meu contatinho?
 
